@@ -6,6 +6,8 @@
 #define CPPUTILS_BASECONVERSION_H
 
 #include <vector>
+#include <stdint.h>
+#include <glob.h>
 #include "cmath"
 
 using std::vector;
